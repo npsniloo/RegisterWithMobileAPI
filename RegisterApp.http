@@ -1,0 +1,6 @@
+@RegisterApp_HostAddress = http://localhost:5043
+
+POST {{RegisterApp_HostAddress}}/Auth/register/start
+Accept: application/json
+
+###
